@@ -1,1 +1,1 @@
-rootProject.name = "rewrite-recipe-starter"
+rootProject.name = "settings.gradle.kts"
